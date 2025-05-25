@@ -21,7 +21,7 @@ Install dependencies:pip install -r requirements.txt
 
 How to Run
 
-Clone the repository:git clone https://github.com/Priyanshu8905/RECOMMANDATION-SYSYTEM-GUVI/tree/main/src Recommendation_System
+Clone the repository:git clone https://github.com/Priyanshu8905/RECOMMANDATION-SYSYTEM-GUVI 
 
 
 Install dependencies:pip install -r requirements.txt
