@@ -25,7 +25,7 @@ Web Browser: For viewing visualizations (no additional setup needed, as Chart.js
 
 Installation
 
-Clone the Repository:git clone https://github.com/Priyanshu8905/-Recommendation_System cd Recommendation_System
+Clone the Repository:git clone https://github.com/Priyanshu8905/RECOMMANDATION-SYSYTEM-GUVI cd Recommendation_System
 
 Set Up Python Environment: Create a virtual environment (optional but recommended):python -m venv venv source venv/bin/activate # On Windows: venv\Scripts\activate
 
